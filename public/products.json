@@ -1,0 +1,74 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 9.99,
+    "description": "High-quality wireless headphones with noise cancellation and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "image": "https://www.startech.com.bd/image/cache/catalog/appliance/charger-fan/yison/celebrat-f6/celebrat-f6-02-500x500.webp",
+    "price": 20.99,
+    "description": "Smartwatch with fitness tracking, heart rate monitor, and customizable watch faces."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 29.99,
+    "description": "Portable Bluetooth speaker with deep bass, 10-hour battery, and waterproof design."
+  },
+  {
+    "id": 4,
+    "name": "Fitness Tracker",
+    "image": "https://www.startech.com.bd/image/cache/catalog/appliance/charger-fan/yison/celebrat-f6/celebrat-f6-02-500x500.webp",
+    "price": 39.99,
+    "description": "Lightweight fitness tracker with step counting, sleep analysis, and mobile sync."
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "image": "https://www.startech.com.bd/image/cache/catalog/gadget/daily-lifestyle/enchen/boost/boost-01-500x500.webp",
+    "price": 29.99,
+    "description": "Ergonomic gaming mouse with RGB lighting, DPI control, and fast response rate."
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 39.99,
+    "description": "Mechanical keyboard with tactile switches, customizable RGB lights, and wrist rest."
+  },
+  {
+    "id": 7,
+    "name": "USB-C Hub",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 29.99,
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, SD card slot, and fast charging support."
+  },
+  {
+    "id": 8,
+    "name": "Laptop Stand",
+    "image": "https://www.startech.com.bd/image/cache/catalog/gadget/daily-lifestyle/enchen/boost/boost-01-500x500.webp",
+    "price": 10.99,
+    "description": "Adjustable laptop stand with ergonomic design and anti-slip surface."
+  },
+  {
+    "id": 9,
+    "name": "Mechanical Keyboard",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 14.99,
+    "description": "Mechanical keyboard with tactile switches, customizable RGB lights, and wrist rest."
+  }
+  ,
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "image": "https://www.startech.com.bd/image/cache/catalog/headphone/havit/h633bt/havit-h633bt-bluetooth-headphone-01-500x500.webp",
+    "price": 16.99,
+    "description": "Lightweight fitness tracker with step counting, sleep analysis, and mobile sync."
+  }
+]
